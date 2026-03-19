@@ -1,20 +1,20 @@
 {
-  "name": "Morena nails",
-  "short_name": "Morena",
+  "name": "Leyanna Studio",
+  "short_name": "Leyanna",
   "description": "Uñas y belleza - Tu espacio de cuidado personal",
-  "start_url": "/morena-nails/",
-  "scope": "/morena-nails/",
+  "start_url": "/leyanna-studio/",
+  "scope": "/leyanna-studio/",
   "display": "standalone",
   "background_color": "#ec4899",
   "theme_color": "#ec4899",
   "icons": [
     {
-      "src": "/morena-nails/icons/icon-192x192.png",
+      "src": "/leyanna-studio/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/morena-nails/icons/icon-512x512.png",
+      "src": "/leyanna-studio/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
